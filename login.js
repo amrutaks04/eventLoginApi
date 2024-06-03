@@ -30,8 +30,8 @@ connectToDb();
 const transporter = nodemailer.createTransport({
   service: 'gmail', // You can use any email service
   auth: {
-    user: 'your-email@gmail.com',
-    pass: 'your-email-password'
+    user: 'amrutaks018@gmail.com',
+    pass: 'amruta@14'
   }
 });
 
